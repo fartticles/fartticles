@@ -1,4 +1,6 @@
-## Hi there 👋
+![Uploading 1000157309.png…]()
+<img width="1080" height="1080" alt="1000157317" src="https://github.com/user-attachments/assets/e76c708a-6870-41fc-b1b8-955769e38353" />
+
 
 <!--
 **fartticles/fartticles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
